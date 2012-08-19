@@ -54,16 +54,15 @@
 		<license>GNU GPL v3</license>
 	</extension>
 </addon>
-
 <addon id="repository.shawon"
-        name="shawonmq's Add-ons"
+        name="test's Add-ons"
         version="1.0.0"
         provider-name="shawonmq">
     <extension point="xbmc.addon.repository"
         name="shawonmq's Add-ons">
-        <info compressed="false">http://github.com/shawonmq/all-about-stream/raw/master/addons.xml</info>
-        <checksum>http://github.com/shawonmq/all-about-stream/raw/master/addons.xml.md5</checksum>
-        <datadir zip="true">http://github.com/shawonmq/all-about-stream/raw/master/repo</datadir>
+        <info compressed="false">https://github.com/shawonmq/all-about-stream/addons.xml</info>
+        <checksum>https://github.com/shawonmq/all-about-stream/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/shawonmq/all-about-stream/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Install add-ons from shawonmq's add-on repository</summary>
@@ -72,5 +71,6 @@
         <platform>all</platform>
     </extension>
 </addon>
+
 
 </addons>
