@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.shawonmq"
+        name="shawonmq's Add-ons"
+        version="1.0.0"
+        provider-name="shawonmq">
+    <extension point="xbmc.addon.repository"
+        name="shawonmq's Add-ons">
+        <info compressed="false">https://github.com/shawonmq/all-about-stream/addons.xml</info>
+        <checksum>https://github.com/shawonmq/all-about-stream/addons.xml.md5</checksum>
+        <datadir zip="false">https://github.com/shawonmq/all-about-stream</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install add-ons from shawonmq's add-on repository</summary>
+        <description>Download and install XBMC add-ons.</description>
+        <disclaimer>Nothing is streamed from the plugin makers site</disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
