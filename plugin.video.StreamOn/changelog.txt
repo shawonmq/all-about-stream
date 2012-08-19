@@ -1,0 +1,20 @@
+[B]Version 1.0.3[/B]
+-Linking error with youtube plugin fixed
+
+[B]Version 1.0.2[/B]
+-Converted New Pakee to StreamOn
+-This one has capability to play more video sites including 4shared, dailymotion, youtube etc
+- Natoksfrombd.com added
+- Amarnatok.com coming soon
+
+[B]Version 1.0.1[/B]
+-Added zonytvcom rtmpe links playability
+
+[B]Version 1.0.0[/B]
+-Converted Pakee to Streamon
+-Added few streamings sites
+-Cricfree.tv
+-Desistreams.tv
+-Coolsport.tv
+-Liveonbd.com/Jagobd.com
+-Mypremium.tv

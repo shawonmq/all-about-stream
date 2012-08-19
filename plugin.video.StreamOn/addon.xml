@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.StreamOn"
+       name="StreamOn"
+       version="1.0.3"
+       provider-name="StreamOn">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang='en'>Platform to browse entertainment media across devices</summary>
+    <description lang='en'>
+-Browse TV channels, TV shows
+</description>
+  <disclaimer lang='en'>No media content is hosted or streamed by the makers of this addon. Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.</disclaimer>
+    <platform>all</platform>
+    <language>en ur hi</language>
+  </extension>
+</addon>
